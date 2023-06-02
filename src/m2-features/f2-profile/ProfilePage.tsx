@@ -1,7 +1,6 @@
 import React from 'react';
-import './Profile.css';
 
-function Profile() {
+function ProfilePage() {
     return (
         <div>
             Profile
@@ -9,4 +8,4 @@ function Profile() {
     );
 }
 
-export default Profile;
+export default ProfilePage;

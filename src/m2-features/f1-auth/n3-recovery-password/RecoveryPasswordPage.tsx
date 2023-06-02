@@ -1,5 +1,4 @@
 import React from 'react';
-import './RecoveryPassword.css';
 
 function RecoveryPasswordPage() {
     return (

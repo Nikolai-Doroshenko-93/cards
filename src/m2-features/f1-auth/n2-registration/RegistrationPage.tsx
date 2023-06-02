@@ -1,6 +1,4 @@
 import React from 'react';
-import './Registration.css';
-
 function RegistrationPage() {
     return (
         <div>

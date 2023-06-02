@@ -1,5 +1,4 @@
 import React from 'react';
-import './EnteringNewPassword.css';
 
 function EnteringNewPasswordPage() {
     return (
